@@ -13,8 +13,12 @@ This portfolio is a demonstration of my abilities using various front-end techno
 - JavaScript
 - Frontend frameworks/libraries as needed
 
-##Reference Images
-https://github.com/pseudo0244/portfolio/blob/main/11.png
+## Reference Images
+![Alt text](https://github.com/pseudo0244/portfolio/blob/main/11.png)
+![Alt text](https://github.com/pseudo0244/portfolio/blob/main/22.png)
+![Alt text](https://github.com/pseudo0244/portfolio/blob/main/33.png)
+
+
 
 
 ## Features
