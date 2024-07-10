@@ -21,7 +21,7 @@ This portfolio is a demonstration of my abilities using various front-end techno
 
 ## Visit the Website
 
-Check out the live version of the portfolio visit harshith.fun 
+Check out the live version of the portfolio visit www.harshith.fun 
 
 ## Contact
 
