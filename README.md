@@ -1,6 +1,7 @@
 # Harshith's Portfolio Website
 
 Welcome to Harshith's portfolio website! This project is themed around Netflix and showcases my skills and projects in web development. 
+![Alt text](https://github.com/pseudo0244/portfolio/blob/main/11.png)
 
 ## About the Project
 
@@ -13,11 +14,7 @@ This portfolio is a demonstration of my abilities using various front-end techno
 - JavaScript
 - Frontend frameworks/libraries as needed
 
-## Reference Images
-![Alt text](https://github.com/pseudo0244/portfolio/blob/main/11.png)
 ![Alt text](https://github.com/pseudo0244/portfolio/blob/main/22.png)
-![Alt text](https://github.com/pseudo0244/portfolio/blob/main/33.png)
-
 
 
 
@@ -31,6 +28,7 @@ This portfolio is a demonstration of my abilities using various front-end techno
 
 Check out the live version of the portfolio visit www.harshith.fun 
 
+![Alt text](https://github.com/pseudo0244/portfolio/blob/main/33.png)
 ## Contact
 
 Feel free to reach out to me for any questions or collaborations:
